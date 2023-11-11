@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <img id="logo" src="src/assets/taxmen-logo-shrunk.png" alt="The Taxmen"/>
+  <img id="logo" src="public/taxmen-logo-shrunk.png" alt="The Taxmen"/>
 </template>
 
 <style scoped>

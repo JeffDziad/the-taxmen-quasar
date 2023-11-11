@@ -1,1 +1,0 @@
-import{_ as e,t as _,y as o}from"./index.ec229448.js";const s={},t={id:"logo",src:"src/assets/taxmen-logo-shrunk.png",alt:"The Taxmen"};function a(n,r){return _(),o("img",t)}var m=e(s,[["render",a],["__scopeId","data-v-bfe33932"]]);export{m as T};
