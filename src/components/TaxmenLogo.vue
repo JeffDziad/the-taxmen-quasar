@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <q-img id="logo" src="/taxmen-logo-shrunk.png" alt="The Taxmen"/>
+  <img id="logo" src="/taxmen-logo-shrunk.png" alt="The Taxmen"/>
 </template>
 
 <style scoped>

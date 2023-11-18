@@ -4,8 +4,10 @@
 
 <script>
 import { defineComponent } from 'vue'
+import CanvasBackground from "components/CanvasBackground.vue";
 
 export default defineComponent({
-  name: 'App'
+  name: 'App',
+  components: {CanvasBackground}
 })
 </script>

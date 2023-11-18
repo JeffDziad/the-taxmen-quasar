@@ -2,15 +2,7 @@
 import {ref} from "vue";
 
 const images = ref([
-  "/Slides/1.jpg",
-  "/Slides/2.jpg",
-  "/Slides/3.jpg",
-  "/Slides/4.jpg",
-  "/Slides/5.jpg",
-  "/Slides/6.jpg",
-  "/Slides/7.jpg",
-  "/Slides/8.jpg",
-  "/Slides/9.jpg",
+
 ]);
 const slide = ref(1);
 </script>
